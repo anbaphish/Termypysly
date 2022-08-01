@@ -1,0 +1,4 @@
+Basically a re-used version of old auto clicker stuff.
+
+I personally found writing it in duckyscript and then turning that to python was much
+easier than dealing with pyauto, and I could still do other things in python
