@@ -1,0 +1,7 @@
+WINDOWS r
+DELAY 500
+STRING https://www.rapidtables.com/tools/notepad.html
+ENTER
+DEFAULTCHARDELAY 90
+CHARJITTER 20
+STRING
